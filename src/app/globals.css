@@ -31,3 +31,19 @@ body {
     text-wrap: balance;
   }
 }
+
+.container {
+  border: 1px solid #0e0c0c;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  background-color: #f180ab;
+  max-width: 400px;
+  margin: 20px auto;
+  text-align: left;
+}
+
+.hobbies-list {
+  list-style-type: disc;
+  padding-left: 20px;
+}
